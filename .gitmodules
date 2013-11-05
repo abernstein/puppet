@@ -1,0 +1,3 @@
+[submodule "modules/user-profile-unix"]
+	path = modules/user-profile-unix
+	url = git@github.com:abernstein/user-profile-unix.git
