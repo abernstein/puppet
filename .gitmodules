@@ -1,3 +1,9 @@
 [submodule "modules/user-profile-unix"]
 	path = modules/user-profile-unix
 	url = git@github.com:abernstein/user-profile-unix.git
+[submodule "modules/role"]
+  path = modules/role
+  url = git@github.secureserver.net:abernstein/puppet-roles.git
+[submodule "modules/profile"]
+  path = modules/profile
+  url = git@github.secureserver.net:abernstein/puppet-profiles.git
