@@ -3,7 +3,7 @@
 	url = git@github.com:abernstein/user-profile-unix.git
 [submodule "modules/role"]
   path = modules/role
-  url = git@github.secureserver.net:abernstein/puppet-roles.git
+  url = git@github.secureserver.net:abernstein/puppet-role.git
 [submodule "modules/profile"]
   path = modules/profile
-  url = git@github.secureserver.net:abernstein/puppet-profiles.git
+  url = git@github.secureserver.net:abernstein/puppet-profile.git
